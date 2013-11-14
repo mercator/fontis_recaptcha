@@ -1,0 +1,9 @@
+{
+    "name": "mercator/fontis_recaptcha",
+    "type": "magento-module",
+    "description": "Mercator repository for Fontis_Recaptcha. Protects Magento forms with ReCAPTCHA.",
+    "homepage": "http://www.fontis.com.au",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
